@@ -1,0 +1,10 @@
+==SETUP START==
+CENTER_ID=1
+==SETUP END==
+
+==CONVERSATION START==
+[thanks for calling] are you looking for new appointment >>> yes
+Please read out the [requested scan] as mentioned by your doctor in the referral letter >>> US hand
+You have requested for us hand . [Is that correct?] >>> yes that is correct
+[When would you like to visit us?] >>> today at 1pm
+==CONVERSATION END==
