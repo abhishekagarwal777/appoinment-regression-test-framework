@@ -1,0 +1,21 @@
+[93m/Users/abhishekagarwal/Downloads/appointment-regression-test-framework-main[00m
+[96mNone[00m
+------------------------------
+------------------------------
+['[thanks for calling] are you looking for new appointment >>> yes', 'Please read out the [requested scan] as mentioned by your doctor in the referral letter >>> US hand', 'You have requested for us hand . [Is that correct?] >>> yes that is correct', '[When would you like to visit us?] >>> saturday at 1pm']
+[93mBOT:Thanks for calling Castle Hill Diagnostics-Staging. Are you looking to book a new appointment?[00m
+[92mCLI: yes[00m
+[93mBOT:Please read out the requested scan as mentioned in the referral letter.[00m
+[92mCLI: US hand[00m
+[93mBOT:you have requested for U S hand . is that correct?[00m
+[92mCLI: yes that is correct[00m
+[93mBOT:The earliest available time is today evening at 05:25 PM. Are you ok to proceed or do you have any other preference?[00m
+[93mBOT:Sorry, I did not hear. The earliest available time is today evening at 05:25 PM. Are you ok to proceed or do you have any other preference?[00m
+list index out of range
+[93mBOT:Sorry, I did not hear. The earliest available time is today evening at 05:25 PM. Are you ok to proceed or do you have any other preference?[00m
+list index out of range
+[93mBOT:[00m
+list index out of range
+[93mBOT:HANGUP_CALL[00m
+1
+### closed ###
